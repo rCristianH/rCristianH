@@ -5,7 +5,7 @@
 
 Skills: (*PYTHON / REACT / JS / HTML / CSS*)
 
-- 🔭 I’m currently working on this page. 
+- 🔭 Page under construction
 
 
 
