@@ -4,7 +4,7 @@
 <!--
 ### Hi there 👋, My name is Cristian
 #### I am a software development student.
-<!--![I am a software development student.](https://i.imgur.com/oJiZP3B.png)-->
+[I am a software development student.](https://i.imgur.com/oJiZP3B.png)
 
 
 Skills: (*PYTHON / REACT / JS / HTML / CSS*)
