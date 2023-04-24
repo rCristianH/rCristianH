@@ -31,5 +31,5 @@ To see my work click [**here.**]()
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
-  ![](https://komarev.com/ghpvc/?username=rCristianH)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rCristianH&label=Views&color=0e75b6&style=flat" alt="rCristianH" /> </p>
 </details>
